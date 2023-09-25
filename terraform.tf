@@ -8,6 +8,7 @@ terraform {
   #   }
   # }
   #  new
+  #   new again
   required_providers {
     aws = {
       source  = "hashicorp/aws"
