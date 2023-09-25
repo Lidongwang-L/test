@@ -7,7 +7,7 @@ terraform {
   #     name = "learn-terraform-cloud-l"
   #   }
   # }
-
+  #  new
   required_providers {
     aws = {
       source  = "hashicorp/aws"
